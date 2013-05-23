@@ -1,4 +1,5 @@
-wb-map-public
-=============
+wb-map
+======
+weatherblur mapping tool
 
-Public Repository for Weatherblur Mapping Tool
+public source for presentatio at FOSS4G Minneapolis. deployed here: http://nbt-foss4g-demo.herokuapp.com/map/
