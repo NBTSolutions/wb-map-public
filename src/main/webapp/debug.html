@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Weatherblur Observation Map</title>
+        <link rel="shortcut icon" href="https://d3pch6bcnsao4c.cloudfront.net/weatherblur/favicon.ico"/>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf8"/>
+		<meta name="apple-mobile-web-app-capable" content="yes"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+        <!--[if lte IE 8]>
+            <link rel="stylesheet" href="//d3pch6bcnsao4c.cloudfront.net/lib/leaflet/leaflet-0.5.1.ie.css" />
+        <![endif]-->
+        <link rel="stylesheet" href="//d3pch6bcnsao4c.cloudfront.net/lib/leaflet/leaflet-0.5.1.css" />
+        <link rel="stylesheet" href="//d3pch6bcnsao4c.cloudfront.net/lib/fontawesome/css/font-awesome.css" />
+        <link rel="stylesheet" href="//d3pch6bcnsao4c.cloudfront.net/lib/enyo/enyo-onyx-2.2.0.css"></link>
+
+        <script src="cordova.js" type="text/javascript" charset="utf-8"></script></script>
+
+        <script src="//d3pch6bcnsao4c.cloudfront.net/lib/moment.min.js"></script>
+        <script src="//d3pch6bcnsao4c.cloudfront.net/lib/underscore-1.4.4.js"></script>
+        <script src="//d3pch6bcnsao4c.cloudfront.net/lib/leaflet/leaflet-0.5.1-enyo.js"></script>
+        <script src="//d3pch6bcnsao4c.cloudfront.net/lib/less-1.3.3.min.js"></script>
+        <script src="//d3pch6bcnsao4c.cloudfront.net/lib/enyo/enyo-onyx-2.2.0.js"></script>
+
+	</head>
+	<body class="enyo-unselectable">
+		<script src="package.js" type="text/javascript"></script>
+        <script>
+            if (nbt.generic.Util.isPhoneGap()) {
+                enyo.dispatcher.listen(document, "deviceready");
+                enyo.kind({
+                    name: "App",
+                    components: [
+                        {kind: "Signals", ondeviceready: "deviceReady"}
+                    ],
+                    deviceReady: function() {
+                        new wb.Map().renderInto(document.body);
+                    }
+                });
+            } else {
+                new wb.Map().renderInto(document.body);
+            }
+		</script>
+	</body>
+</html>

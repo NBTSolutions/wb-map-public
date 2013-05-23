@@ -1,0 +1,39 @@
+@import "lib/onyx/css/onyx-variables.less";
+
+@tealblue: #1d7596;
+@onyx-checkbox-image: url(lib/onyx/images/checkbox.png);
+@onyx-gradient: url(lib/onyx/images/gradient.png);
+@onyx-gradient-invert: url(lib/onyx/images/gradient-invert.png);
+@onyx-grabber-image: url(lib/onyx/images/grabbutton.png);
+@control-bg: #1C4266;	
+@control-font-color: lighten(@control-bg, 65%);
+
+.wb-zoom-control {
+   position: absolute;
+   top: 10px;
+   left: 10px;
+   padding: 2px !important;
+}
+.leaflet-popup-content-wrapper {
+    padding: 0.5em;
+}
+.leaflet-container a.leaflet-popup-close-button {
+    margin: 2px 3px 0 0;
+}
+.leaflet-popup-content, .leaflet-popup-content h3 {
+    margin-bottom: 0;
+}
+.hide {
+    display: none;
+}
+#map {
+    background: #1C4266;
+}
+
+@import "lib/onyx/css/onyx-rules.less";
+
+@import "Pullout.less";
+@import "Map.less";
+@import "InfoWindow.less";
+@import "LayerControl.less";
+@import "Calendar.less";

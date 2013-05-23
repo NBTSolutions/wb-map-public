@@ -1,0 +1,17 @@
+NBT.States.counties["az"] = [
+  "Apache County",
+  "Cochise County",
+  "Coconino County",
+  "Gila County",
+  "Graham County",
+  "Greenlee County",
+  "La Paz County",
+  "Maricopa County",
+  "Mohave County",
+  "Navajo County",
+  "Pima County",
+  "Pinal County",
+  "Santa Cruz County",
+  "Yavapai County",
+  "Yuma County"
+]

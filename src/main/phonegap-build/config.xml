@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"
+        id="nbt.app.wb-map" version="1.0-SNAPSHOT">
+    <name>wb-map</name>
+    <description>
+        Weatherblur Map
+    </description>
+    <author href="http://www.nbtsolutions.com" email="travis.webb@nbtsolutions.com">
+        Travis Webb
+    </author>
+</widget>

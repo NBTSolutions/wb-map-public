@@ -1,0 +1,398 @@
+[
+    {
+        "id": "observation.30",
+        "properties": {
+            "timestamp": "2013-06-11T01:38:39.871Z",
+            "id": 30,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -62.878099834073396,
+                40.860273001995765
+            ]
+        }
+    },
+    {
+        "id": "observation.35",
+        "properties": {
+            "timestamp": "2013-04-24T01:38:39.982Z",
+            "id": 35,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -62.878099834073396,
+                40.860273001995765
+            ]
+        }
+    },
+    {
+        "id": "observation.42",
+        "properties": {
+            "timestamp": "2013-05-19T01:38:40.007Z",
+            "id": 42,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -74.25543180673942,
+                39.00986626588096
+            ]
+        }
+    },
+    {
+        "id": "observation.49",
+        "properties": {
+            "timestamp": "2013-05-31T01:38:40.032Z",
+            "id": 49,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -65.76786898862606,
+                47.83845535567249
+            ]
+        }
+    },
+    {
+        "id": "observation.52",
+        "properties": {
+            "timestamp": "2013-06-07T01:38:40.049Z",
+            "id": 52,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -61.04398532890106,
+                45.827545407590534
+            ]
+        }
+    },
+    {
+        "id": "observation.59",
+        "properties": {
+            "timestamp": "2013-05-19T01:38:40.072Z",
+            "id": 59,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -72.76897137933042,
+                49.67259411047502
+            ]
+        }
+    },
+    {
+        "id": "observation.66",
+        "properties": {
+            "timestamp": "2013-04-22T01:38:40.096Z",
+            "id": 66,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -61.042551531888144,
+                46.556567230067024
+            ]
+        }
+    },
+    {
+        "id": "observation.71",
+        "properties": {
+            "timestamp": "2013-05-28T01:38:40.116Z",
+            "id": 71,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -62.73334503767285,
+                50.731045830361175
+            ]
+        }
+    },
+    {
+        "id": "observation.78",
+        "properties": {
+            "timestamp": "2013-05-15T01:38:40.139Z",
+            "id": 78,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -72.63229649485905,
+                45.71532754672811
+            ]
+        }
+    },
+    {
+        "id": "observation.81",
+        "properties": {
+            "timestamp": "2013-06-11T01:38:40.154Z",
+            "id": 81,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -72.30555817029412,
+                39.89486174928135
+            ]
+        }
+    },
+    {
+        "id": "observation.85",
+        "properties": {
+            "timestamp": "2013-06-12T01:38:40.170Z",
+            "id": 85,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -64.11540826270326,
+                46.48610457999471
+            ]
+        }
+    },
+    {
+        "id": "observation.92",
+        "properties": {
+            "timestamp": "2013-05-07T01:38:40.190Z",
+            "id": 92,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -73.09391221816793,
+                39.229678525481795
+            ]
+        }
+    },
+    {
+        "id": "observation.96",
+        "properties": {
+            "timestamp": "2013-06-08T01:38:40.206Z",
+            "id": 96,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -61.59183193585501,
+                45.21259230689659
+            ]
+        }
+    },
+    {
+        "id": "observation.100",
+        "properties": {
+            "timestamp": "2013-04-29T01:38:40.223Z",
+            "id": 100,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -68.22033050877864,
+                41.15785506052673
+            ]
+        }
+    },
+    {
+        "id": "observation.103",
+        "properties": {
+            "timestamp": "2013-04-20T01:38:40.239Z",
+            "id": 103,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -67.07016323299926,
+                46.07666956085092
+            ]
+        }
+    },
+    {
+        "id": "observation.110",
+        "properties": {
+            "timestamp": "2013-06-05T01:38:40.261Z",
+            "id": 110,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -76.2962916,
+                36.8600886
+            ]
+        }
+    },
+    {
+        "id": "observation.114",
+        "properties": {
+            "timestamp": "2013-05-22T01:38:40.279Z",
+            "id": 114,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -76.2962916,
+                36.8600886
+            ]
+        }
+    },
+    {
+        "id": "observation.120",
+        "properties": {
+            "timestamp": "2013-04-19T01:38:40.300Z",
+            "id": 120,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -76.2962916,
+                36.8600886
+            ]
+        }
+    },
+    {
+        "id": "observation.125",
+        "properties": {
+            "timestamp": "2013-05-21T01:38:40.320Z",
+            "id": 125,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -76.2962916,
+                36.8600886
+            ]
+        }
+    },
+    {
+        "id": "observation.130",
+        "properties": {
+            "timestamp": "2013-06-10T01:38:40.339Z",
+            "id": 130,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -76.2962916,
+                36.8600886
+            ]
+        }
+    },
+    {
+        "id": "observation.136",
+        "properties": {
+            "timestamp": "2013-04-22T23:53:29Z",
+            "id": 136,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -76.2962916,
+                36.8600886
+            ]
+        }
+    },
+    {
+        "id": "observation.139",
+        "properties": {
+            "timestamp": "2013-04-22T23:53:29Z",
+            "id": 139,
+            "source_id": 28,
+            "version": 0
+        },
+        "type": "Feature",
+        "geometry_name": "location",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -76.2962916,
+                36.8600886
+            ]
+        }
+    }
+]
